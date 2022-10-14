@@ -49,6 +49,8 @@ do
         echo "--------------"
    
 done < dates.txt
+
+cat render.txt | tr -d " \t\n\r" 
 cat render.txt
 }
 parse
