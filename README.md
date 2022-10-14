@@ -14,6 +14,7 @@ Output Format:
 2021-01-30T17:03:08Z
 
 Resources:
+
 https://stackoverflow.com/questions/1527049/how-can-i-join-elements-of-an-array-in-bash
 https://stackoverflow.com/questions/15691942/print-array-elements-on-separate-lines-in-bash
 https://unix.stackexchange.com/questions/422491/redirect-content-under-a-new-line-without-further-syntax-or-arguments
