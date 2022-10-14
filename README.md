@@ -1,6 +1,6 @@
 **Description:**
 
-A simple script emplate for parsing and re-writting dates from an example .csv file
+A simple script template for parsing and re-writting dates from an example .csv file
 
 **Use Case Example:**
 
